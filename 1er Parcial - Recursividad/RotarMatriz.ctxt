@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RotarMatriz
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RotarMatriz\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=mat\ n
+comment1.target=int[][]\ rotarMatriz(int[][],\ int)
+comment2.params=mat\ n\ r\ iterador\ matrizRot\ f
+comment2.target=int[][]\ rotarMatriz(int[][],\ int,\ int,\ int,\ int[][],\ int)
+comment3.params=n\ mat\ aux
+comment3.target=void\ rotarFila(int,\ int[],\ int[])
+comment4.params=n\ i\ j\ mat\ aux
+comment4.target=void\ rotarFila(int,\ int,\ int,\ int[],\ int[])
+numComments=5

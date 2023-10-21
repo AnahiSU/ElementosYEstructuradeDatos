@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=InversoSimple
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ InversoSimple\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cadena
+comment1.target=java.lang.String\ invertirSimple(java.lang.String)
+comment2.params=cad
+comment2.target=java.lang.String\ invertirCad(java.lang.String)
+comment3.params=cadena\ i
+comment3.target=java.lang.String\ limpiaCadenas(java.lang.String,\ int)
+comment4.params=cadena\ x\ i
+comment4.target=boolean\ estaDentro(java.lang.String,\ char,\ int)
+numComments=5

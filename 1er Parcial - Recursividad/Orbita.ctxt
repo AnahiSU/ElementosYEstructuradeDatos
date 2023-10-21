@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Orbita
+comment1.params=n
+comment1.target=java.util.ArrayList\ orbita(int)
+comment2.params=n\ orbita
+comment2.target=java.util.ArrayList\ orbita(int,\ java.util.ArrayList)
+numComments=3

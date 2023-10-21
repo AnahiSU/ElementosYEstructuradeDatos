@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PracticaAuxiliatura
+comment1.params=n
+comment1.target=boolean\ esPrimo(int)
+comment10.params=n
+comment10.target=int\ contarCifras(int)
+comment11.params=n
+comment11.target=int\ promedio(int)
+comment2.params=n\ i
+comment2.target=boolean\ esPrimo(int,\ int)
+comment3.params=n
+comment3.target=int\ primerPrimo(int)
+comment4.params=n\ i
+comment4.target=int\ primerPrimo(int,\ int)
+comment5.params=num
+comment5.target=java.util.ArrayList\ encontrarFactores(int)
+comment6.params=num\ lista
+comment6.target=void\ encontrarFactores(int,\ java.util.ArrayList)
+comment7.params=sec
+comment7.target=int\ sumarPrimos(int[])
+comment8.params=sec\ i\ f
+comment8.target=int\ sumarPrimos(int[],\ int,\ int)
+comment9.params=n
+comment9.target=int\ sumarONo(int)
+numComments=12

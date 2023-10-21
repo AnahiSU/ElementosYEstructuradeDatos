@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Clausura2
+comment1.params=lista\ factor\ i
+comment1.target=java.util.ArrayList\ anadirFactor(java.util.ArrayList,\ int,\ int)
+comment2.params=lista\ i\ j
+comment2.target=java.util.ArrayList\ sublista(java.util.ArrayList,\ int,\ int)
+comment3.params=lista
+comment3.target=java.util.ArrayList\ clausura(java.util.ArrayList)
+comment4.params=lista\ n
+comment4.target=java.util.ArrayList\ clausura(java.util.ArrayList,\ int)
+comment5.params=
+comment5.target=java.util.ArrayList\ main()
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ordenamientos
+comment1.params=lista\ res\ ini\ fin\ iterador
+comment1.target=void\ fill(int[],\ int[],\ int,\ int,\ int)
+comment2.params=coleccion
+comment2.target=int[]\ mergeSort(int[])
+comment3.params=coleccion\ n
+comment3.target=void\ mergeSort(int[],\ int)
+comment4.params=lista
+comment4.target=int[]\ mainsito(int[])
+comment5.params=s1\ s2
+comment5.target=int[]\ merge(int[],\ int[])
+numComments=6

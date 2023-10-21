@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Merge
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ordenamientos\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=lista\ res\ ini\ fin\ iterador
+comment1.target=void\ fill(int[],\ int[],\ int,\ int,\ int)
+comment2.params=coleccion
+comment2.target=int[]\ sort(int[])
+comment3.params=coleccion\ n
+comment3.target=void\ sort(int[],\ int)
+comment4.params=lista
+comment4.target=int[]\ mainsito(int[])
+comment5.params=s1\ s2
+comment5.target=int[]\ merge(int[],\ int[])
+comment6.params=s1\ s2\ res\ iterador\ i\ j
+comment6.target=void\ merge(int[],\ int[],\ int[],\ int,\ int,\ int)
+numComments=7

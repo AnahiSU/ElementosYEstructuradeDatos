@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CaracterEnCadena
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CaracteresEnCadena\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cadena\ buscado
+comment1.target=int\ cuantasVecesEsta(java.lang.String,\ char)
+comment2.params=cad
+comment2.target=java.lang.String\ invertirCad(java.lang.String)
+comment3.params=cadena
+comment3.target=int\ cuantasVocales(java.lang.String)
+comment4.params=a
+comment4.target=boolean\ esVocal(char)
+numComments=5

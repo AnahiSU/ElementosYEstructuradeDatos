@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Piramide
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Piramide\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nivel
+comment1.target=int\ construirNivel(int)
+comment2.params=n
+comment2.target=void\ construirPiramide(int)
+numComments=3

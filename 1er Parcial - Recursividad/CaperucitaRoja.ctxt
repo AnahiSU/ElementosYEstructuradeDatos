@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CaperucitaRoja
+comment1.params=tab
+comment1.target=CaperucitaRoja(char[][])
+comment2.params=campo\ x\ y
+comment2.target=int\ caminar(char[][],\ int,\ int)
+comment3.params=x\ y
+comment3.target=boolean\ esValida(int,\ int)
+numComments=4

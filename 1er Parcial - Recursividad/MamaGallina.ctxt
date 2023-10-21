@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MamaGallina
+comment1.params=sillas\ x\ y\ i
+comment1.target=encontrarSillas(char[][],\ int,\ int,\ int)
+comment2.params=sillas\ x\ y
+comment2.target=boolean\ tieneAdyascencias(char[][],\ int,\ int)
+comment3.params=x\ y\ mat
+comment3.target=boolean\ esValido(int,\ int,\ char[][])
+numComments=4

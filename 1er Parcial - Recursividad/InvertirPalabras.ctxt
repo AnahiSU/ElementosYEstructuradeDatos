@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=InvertirPalabras
+comment1.params=frase
+comment1.target=java.util.ArrayList\ invertirPalabras(java.lang.String)
+comment2.params=frase\ i\ pal
+comment2.target=java.util.ArrayList\ invertirPalabras(java.lang.String,\ int,\ java.util.ArrayList)
+comment3.params=palabra\ i
+comment3.target=java.lang.String\ invertir(java.lang.String,\ int)
+comment4.params=frase
+comment4.target=java.util.ArrayList\ separarPalabras(java.lang.String)
+comment5.params=frase\ i\ f\ res
+comment5.target=java.util.ArrayList\ separarPalabras(java.lang.String,\ int,\ int,\ java.util.ArrayList)
+numComments=6
